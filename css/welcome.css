@@ -317,13 +317,11 @@ a{
 .intro-heading p{
   color: #8a94a763;
 }
-.intro-carrousel{
-  margin-top: 50px;
+.card img{
+  width:auto;
+  height: 350px;
 }
-.intro-carrousel img{
-  width:774px;
-  height: 400px;
-}
+
 #services{
   display: flex;
   justify-content: center;
@@ -491,6 +489,7 @@ footer{
     .model-bg{
         display: none;
     }
+    
     .model{
         width:400px;
         height: 400px;
@@ -696,4 +695,5 @@ footer{
     .navigation{
         padding: 30px 10px;
     }
+ 
 }
